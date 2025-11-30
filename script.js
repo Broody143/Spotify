@@ -1,6 +1,6 @@
 /*let play = document.getElementById('play');
-let progressBar = document.getElementById('progressBar');
-let audio = new Audio('songs/1.mp3');
+let progressBar = document.getElementById('progressBar'); 
+let nav-bar = new Audio('songs/30.mp3');
 
 let currentSong = 1;
 
@@ -212,7 +212,7 @@ let songs = [
     { id: 19, audio: "songs/19.mp3", img: "img/19.webp", title: "Piyar Farak Wali", desc: "Description" },
     { id: 20, audio: "songs/20.mp3", img: "img/20.webp", title: "Maniac", desc: "Description" },
     { id: 21, audio: "songs/21.mp3", img: "img/21.jpg", title: "Song 21", desc: "Description" },
-    { id: 22, audio: "songs/22.mp3", img: "img/22.jpg", title: "Song 22", desc: "Description" },
+    { id: 22, audio: "songs/22.mp3", img: "img/22.jpg", title: "Brown Rang", desc: "Description" },
     { id: 23, audio: "songs/23.mp3", img: "img/23.webp", title: "Song 23", desc: "Description" },
     { id: 24, audio: "songs/24.mp3", img: "img/24.webp", title: "Song 24", desc: "Description" },
     { id: 25, audio: "songs/25.mp3", img: "img/25.webp", title: "Song 25", desc: "Description" },
